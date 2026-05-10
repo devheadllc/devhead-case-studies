@@ -9,6 +9,8 @@ Most of my active development work is in private or organization repositories be
 ### Tay’s Gourmets
 Full stack e-commerce platform built with React, Node, Express, MongoDB, Mongoose, TypeScript, and Stripe.
 
+[Read the case study](./case-studies/tays-gourmets.md)
+
 Key areas:
 - Customer accounts
 - Stripe payment processing
