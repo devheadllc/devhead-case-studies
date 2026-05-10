@@ -22,6 +22,8 @@ Key areas:
 ### RisingPunk
 React Native mobile strategy application built for Android and iOS with API-backed functionality, database-driven systems, and staging/production environments.
 
+[Read the case study](./case-studies/risingpunk.md)
+
 Key areas:
 - React Native mobile development
 - API-backed functionality
